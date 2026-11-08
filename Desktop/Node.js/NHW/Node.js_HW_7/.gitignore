@@ -1,0 +1,5 @@
+# Node modules
+node_modules/
+
+# Environment and config files with real credentials (opțional, dar recomandat)
+# config/config.json
